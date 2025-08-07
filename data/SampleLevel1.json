@@ -9,16 +9,22 @@
     "password": "Free copy",
     "records": [
         {
-            "user": "russo",
-            "link": "https://www.youtube.com/watch?v=Kqse1g9ZLxY",
+            "user": "abb2k",
+            "link": "https://www.youtube.com/watch?v=d3QvHdxvif8",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Seismic",
-            "link": "https://www.youtube.com/watch?v=iTzCWksIHTI?si=tepndpUXX8daL5RA",
+            "user": "Kaza",
+            "link": "https://www.youtube.com/watch?v=11-mfpE7PXk",
             "percent": 100,
-            "hz": 360
+            "hz": 300
+        }
+        {
+            "user": "Maybee",
+            "link": "https://www.youtube.com/watch?v=gTukSJFmsE8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
