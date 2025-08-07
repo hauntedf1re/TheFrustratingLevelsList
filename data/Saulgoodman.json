@@ -8,5 +8,11 @@
     "percentToQualify": "54",
     "password": "Free copy",
     "records": [
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=7vvcfnfpm4s",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
