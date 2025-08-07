@@ -1,24 +1,24 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 84507862,
+    "name": "No jokes",
+    "author": "Theparadoxteam",
+    "creators": ["Aqualime and more"],
+    "verifier": "Zeronium",
+    "verification": "https://www.youtube.com/watch?v=oVhGYiQ8fBc",
+    "percentToQualify": "50",
+    "password": "Free copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "russo",
+            "link": "https://www.youtube.com/watch?v=Kqse1g9ZLxY",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Seismic",
+            "link": "https://www.youtube.com/watch?v=iTzCWksIHTI?si=tepndpUXX8daL5RA",
             "percent": 100,
-            "hz": 120
+            "hz": 360
         }
     ]
 }
