@@ -9,25 +9,25 @@
     "password": "Free copy",
     "records": [
         {
-            "user": "Zoink",
+            "user": "zoink",
             "link": "https://www.youtube.com/watch?v=7vvcfnfpm4s",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Bigthunder556",
+            "user": "bigthunder556",
             "link": "https://www.youtube.com/watch?v=dNQMt4aQdWE",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Thnnder",
+            "user": "thnnder",
             "link": "https://www.youtube.com/watch?v=hxEBOg0_KnM",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Helix",
+            "user": "helix",
             "link": "https://www.youtube.com/watch?v=Ee-qnwXOb_I",
             "percent": 100,
             "hz": 360
@@ -39,14 +39,32 @@
             "hz": 360
         },
         {
-            "user": "ViperVenom95",
+            "user": "vipervenom95",
             "link": "https://www.youtube.com/watch?v=UD7RLZsXFXs",
             "percent": 100,
             "hz": 360
         },
         {
-            "user": "Russo",
+            "user": "russo",
             "link": "https://www.youtube.com/watch?v=FJdQVzF8TVg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cobrablitz",
+            "link": "https://www.youtube.com/watch?v=wBDI7f2TphY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "taiago",
+            "link": "https://www.youtube.com/watch?v=-_omUcQl5fA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bonn gd",
+            "link": "www.youtube.com/watch?v=M17PRd-mHAs?feature=shared",
             "percent": 100,
             "hz": 360
         }
