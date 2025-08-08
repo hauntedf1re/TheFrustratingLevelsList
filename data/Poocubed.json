@@ -1,0 +1,71 @@
+{
+    "id": 85133223,
+    "name": "Poocubed",
+    "author": "Lisp and more",
+    "creators": ["Lisp and more"],
+    "verifier": "kyass",
+    "verification": "https://www.youtube.com/watch?v=fzL31vai1ms",
+    "percentToQualify": "49",
+    "password": "688255",
+    "records": [
+        {
+            "user": "zoink",
+            "link": "https://www.youtube.com/watch?v=NPvKxItz5Io",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "trick",
+            "link": "https://www.youtube.com/watch?v=dbuOPaOhVPo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "skzyl",
+            "link": "https://www.youtube.com/watch?v=Le4QsysR_ss",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "paliermu",
+            "link": "https://www.youtube.com/watch?v=aUyOB2sTry4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "snowballer",
+            "link": "https://www.youtube.com/watch?v=GVQjNGSOHvE",
+            "percent": 100,
+            "hz": 360
+        {
+            "user": "skycrab",
+            "link": "https://www.youtube.com/watch?v=MB9TBeqaDlo?si=xjZ6pF2sHku_yikW",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "taiago",
+            "link": "https://www.youtube.com/watch?v=WU6ntlugMpM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "delanes",
+            "link": "https://www.youtube.com/watch?v=h2RMdr4sCtM?si=t_2UiS0Dd6efCQBx",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "theitha",
+            "link": "https://www.youtube.com/watch?v=Bcwvd2LWN2A",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "johnlikediamond",
+            "link": "https://www.youtube.com/watch?v=JpPwflzKW4w",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
