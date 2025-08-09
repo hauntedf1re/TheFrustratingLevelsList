@@ -1,1 +1,72 @@
-
+{
+    "id": 81011195,
+    "name": "Walter white",
+    "author": "Renn241 and GhostVandalf",
+    "creators": ["Renn241 and GhostVandalf"],
+    "verifier": "laser",
+    "verification": "https://www.youtube.com/watch?v=KzK62PkWOJ0&t=43s",
+    "percentToQualify": "57",
+    "password": "Free copy",
+    "records": [
+        {
+            "user": "vipervenom95",
+            "link": "https://www.youtube.com/watch?v=LcbioJytf5c",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zoink",
+            "link": "https://www.youtube.com/watch?v=D2IZZBcyo8E",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "boodbdog",
+            "link": "https://www.youtube.com/watch?v=sbXTRjxKQNM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "thnnder",
+            "link": "https://www.youtube.com/watch?v=zKuvUoSqUVc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "cymmas",
+            "link": "https://www.youtube.com/watch?v=fRzV68uOL-I",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bonn gd",
+            "link": "https://www.youtube.com/watch?v=Bvz1gQsRzI0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "seturan",
+            "link": "https://www.youtube.com/watch?v=kht3AZ1Radg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "trick",
+            "link": "https://www.youtube.com/watch?v=7YlnQdii5-8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "stefan boss",
+            "link": "https://www.youtube.com/watch?v=EoGGvvr4X9M&ab_channel=Quivert",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "itzgeron",
+            "link": "https://www.youtube.com/watch?si=56IeN24FI6JB__3o&v=fXFWoD6g50E&feature=youtu.be",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
